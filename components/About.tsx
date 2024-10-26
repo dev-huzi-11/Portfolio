@@ -18,7 +18,7 @@ function About() {
             I later expanded my skill set to include TypeScript for more robust,
             scalable applications.
             My goal is to build dynamic, user-friendly web experiences that
-            combine functionality with creativity, and I'm excited to see where
+            combine functionality with creativity, and I&apos;m excited to see where
             my coding journey takes me.
           </p>
         </div>

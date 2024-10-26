@@ -1,11 +1,8 @@
 "use client";
-import React, { useState } from "react";
-import { Menu, MenuItem } from "./ui/navbar-menu";
-import { cn } from "@/lib/utils";
+import React from "react";
 import Link from "next/link";
 import ThemeToggler from "./ThemeToggler";
 
-// function Navbar({ className }: { className?: string }) {
 //     const [active, setActive] = useState<string | null>(null);
 //   return (
 //     <div
