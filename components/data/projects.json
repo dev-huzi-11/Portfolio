@@ -1,0 +1,148 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "title": "Music School",
+            "description": "A fully responsive and interactive website for a music school, built with Next.js, TypeScript, Tailwind CSS, and Acertinity UI.",
+            "language": "nextjs",
+            "image": "/portfolio-items/musicSchool.png",
+            "link": "https://github.com/dev-huzi-11/Music-School-next.js"
+        },
+        {
+            "id": 2,
+            "title": "Countdown Timer",
+            "description": "A sleek and responsive countdown timer built using Next.js, Shadcn, tailwindcss and TypeScript.",
+            "language": "nextjs",
+            "image": "/portfolio-items/countdown.png",
+            "link": "https://github.com/dev-huzi-11/30-days-30-projects/tree/master"
+        },
+        {
+            "id": 3,
+            "title": "Weather Widget",
+            "description": "A clean and responsive weather widget app built using Next.js, Shadcn, tailwindcss and TypeScript, providing real-time weather updates for any location.",
+            "language": "nextjs",
+            "image": "/portfolio-items/weather.png",
+            "link": "https://github.com/dev-huzi-11/30-days-30-projects/tree/main/weather-app"
+        },
+        {
+            "id": 4,
+            "title": "ATM Machine",
+            "description": "This project simulates the functionality of an Automated Teller Machine (ATM) using TypeScript. It provides users with a simple and intuitive interface to perform basic banking operations such as checking balances, making deposits, and withdrawing cash.",
+            "language": "typescript",
+            "image": "/portfolio-items/atm.jpg",
+            "link": "https://github.com/dev-huzi-11/atm-machine"
+        },
+        {
+            "id": 5,
+            "title": "Currency Converter",
+            "description": "This Currency Converter application is built using TypeScript and provides users with a seamless way to convert between various world currencies.",
+            "language": "typescript",
+            "image": "/portfolio-items/currency-converter.png",
+            "link": "https://github.com/dev-huzi-11/Currency-Converter"
+        },
+        {
+            "id": 6,
+            "title": "Word Counter",
+            "description": "This Word Counter application, built using TypeScript, is designed to provide users with an efficient and accurate way to count words in given text.",
+            "language": "typescript",
+            "image": "/portfolio-items/word-counter.png",
+            "link": "https://github.com/dev-huzi-11/Word-Counter"
+        },
+        {
+            "id": 7,
+            "title": "Temperture Converter",
+            "description": "The Temperature Converter project is a user-friendly application designed to convert temperatures between Celsius, Fahrenheit, and Kelvin. Built using TypeScript, this project leverages strong typing and modern features to enhance reliability and maintainability while providing a seamless user experience.",
+            "language": "typescript",
+            "image": "/portfolio-items/temperature.jpg",
+            "link": "https://github.com/dev-huzi-11/Temperature-Converter"
+        },
+        {
+            "id": 8,
+            "title": "Resume Builder",
+            "description": "The Resume Builder is a web application that allows users to create and edit their resumes in real-time. Users can input their personal details, education, work experience, skills, and other relevant sections. The application will generate a formatted resume that can be downloaded as a PDF.",
+            "language": "typescript",
+            "image": "/portfolio-items/resume-builder.png",
+            "link": "https://github.com/dev-huzi-11/Milestone-4-5-resume-builder"
+        },
+        {
+            "id": 9,
+            "title": "Number Guessing Game",
+            "description": "The Number Guessing Game is an interactive and engaging application designed to challenge users to guess a randomly generated number within a specified range. Built using TypeScript, this project highlights the use of strong typing and modern coding practices, making it both fun and educational.",
+            "language": "typescript",
+            "image": "/portfolio-items/number-guessing.png",
+            "link": "https://github.com/dev-huzi-11/Number-Guessing-Game"
+        },
+        {
+            "id": 10,
+            "title": "Todo-List App",
+            "description": "This To-Do List application is a simple and efficient tool built using JavaScript to help users manage their daily tasks.",
+            "language": "javascript",
+            "image": "/portfolio-items/todo.png",
+            "link": "https://github.com/dev-huzi-11/todo-App"
+        },
+        {
+            "id": 11,
+            "title": "Profile Card",
+            "description": "This Profile Card project showcases Huzaifa Nazeer professional identity in a visually appealing and concise format.",
+            "language": "javascript",
+            "image": "/portfolio-items/profile-card.png",
+            "link": "https://github.com/dev-huzi-11/Profile-Card"
+        },
+        {
+            "id": 12,
+            "title": "Digital Clock",
+            "description": "The Digital Clock project is a sleek and functional application that displays the current time in a digital format. Built using JavaScript, this project showcases real-time updates and provides a clear and easy-to-read interface, making it perfect for enhancing any web page or personal project.",
+            "language": "javascript",
+            "image": "/portfolio-items/clock.png",
+            "link": "https://github.com/dev-huzi-11/DIgital-Clock"
+        },
+        {
+            "id": 13,
+            "title": "Toast Notification",
+            "description": "The Toast Notification project is built with JavaScript, this project allows for the display of three key notification types: Success, Error, and Try Again.",
+            "language": "javascript",
+            "image": "/portfolio-items/toast.png",
+            "link": "https://github.com/dev-huzi-11/Toast-Notification"
+        },
+        {
+            "id": 14,
+            "title": "Calculator",
+            "description": "The Calculator project is a straightforward yet functional application designed to perform basic arithmetic operations. Built using JavaScript, this project offers users a user-friendly interface to execute calculations, making it a handy tool for everyday mathematical tasks.",
+            "language": "javascript",
+            "image": "/portfolio-items/calculator.png",
+            "link": "https://github.com/dev-huzi-11/Calculator"
+        },
+        {
+            "id": 15,
+            "title": "Tic-Tac-Toe Game",
+            "description": "The Tic Tac Toe game is a two-player game where players take turns placing their markers (X or O) on a 3x3 grid. The player who first aligns three markers horizontally, vertically, or diagonally wins the game. If all the squares are filled and no player has won, the game is declared a draw.",
+            "language": "javascript",
+            "image": "/portfolio-items/tic-tac-toe.png",
+            "link": "https://github.com/dev-huzi-11/Tic-Tac-Toe-Game"
+        },
+        {
+            "id": 16,
+            "title": "Password Generator",
+            "description": "The Password Generator is a web-based tool that allows users to create secure, random passwords based on their specified criteria.",
+            "language": "javascript",
+            "image": "/portfolio-items/password-generator.png",
+            "link": "https://github.com/dev-huzi-11/Password-Generator"
+        },
+        {
+            "id": 17,
+            "title": "Amazon Clone",
+            "description": "The Amazon Clone project is a web application designed to replicate the basic structure and design of the Amazon e-commerce platform. Built using HTML and CSS, this project showcases the principles of web development by creating a visually appealing and responsive shopping experience.",
+            "language": "HTMLnCSS",
+            "image": "/portfolio-items/amazon.png",
+            "link": "https://github.com/dev-huzi-11/Amazon-clone"
+        },
+        {
+            "id": 18,
+            "title": "GYM Landing Page",
+            "description": "The Gym Landing Page is a visually appealing webpage designed to attract potential clients to a fitness center or gym.",
+            "language": "HTMLnCSS",
+            "image": "/portfolio-items/gym.png",
+            "link": "https://github.com/dev-huzi-11/Landing-Page"
+        }
+    ] 
+}
